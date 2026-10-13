@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="1294" dy="538" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1749" dy="1114" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -591,14 +591,6 @@
         </mxCell>
         <mxCell id="Al8rDxhRVT6SKZd6HP4Y-109" parent="Al8rDxhRVT6SKZd6HP4Y-33" style="whiteSpace=wrap;html=1;fontColor=#000000;" value="Approve Closure" vertex="1">
           <mxGeometry height="30" width="90" x="250" y="10" as="geometry" />
-        </mxCell>
-        <mxCell id="Al8rDxhRVT6SKZd6HP4Y-79" edge="1" parent="dNxyNK7c78bLwvsdeMH5-19" source="Al8rDxhRVT6SKZd6HP4Y-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Al8rDxhRVT6SKZd6HP4Y-31">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Al8rDxhRVT6SKZd6HP4Y-87" connectable="0" parent="Al8rDxhRVT6SKZd6HP4Y-79" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="NO" vertex="1">
-          <mxGeometry relative="1" x="-0.5037" y="2" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="Al8rDxhRVT6SKZd6HP4Y-86" edge="1" parent="dNxyNK7c78bLwvsdeMH5-19" source="Al8rDxhRVT6SKZd6HP4Y-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="Al8rDxhRVT6SKZd6HP4Y-84">
           <mxGeometry relative="1" as="geometry">
